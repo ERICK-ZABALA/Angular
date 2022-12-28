@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "essensity-9763b": {
+      "hosting": {
+        "essensity": [
+          "essensity-9763b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "essensity-9763b"
+  }
+}
